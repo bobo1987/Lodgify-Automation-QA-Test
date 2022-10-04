@@ -1,0 +1,5 @@
+Incorrect price for ultimate package when rentals price is 50 
+(Reference to test "pricing cards validations - should fail" from pricing.test.js file.)
+
+Phone number validation pop-over message is missing and generic error message is shown when scheduling is unsuccseful
+(Reference to test "phone number mandatory field - should return error" from contact.test.js file.)
